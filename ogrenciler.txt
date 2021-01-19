@@ -4,9 +4,4 @@ Ali
 Volkan
 Dogan
 Koray
-<<<<<<< HEAD
-Fatih
-=======
 Fatih Kose
->>>>>>> 0a4d8366cf3cb4f9711121cf43578176bd0e6fcf
-...
